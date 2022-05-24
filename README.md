@@ -1,2 +1,2 @@
 # Estudo
-Reoisítório de estudi
+Repositório de Estudos
